@@ -14,6 +14,7 @@ Fonte das imagens: Marvel, Disney+, e imbd.<br>
 
 ## Run locally
 
+```
 # Clone this repository
 $ git clone https://github.com/vivianemartini/wandavision-slider
 
@@ -22,6 +23,7 @@ $ cd wandavision-slider
 
 # Run the app
 $ Open live server
+```
 
 ## Preview
 
