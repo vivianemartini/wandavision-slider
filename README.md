@@ -12,6 +12,17 @@ Fonte das imagens: Marvel, Disney+, e imbd.<br>
 - CSS
 - JS
 
+## Run locally
+
+# Clone this repository
+$ git clone https://github.com/vivianemartini/wandavision-slider
+
+# Open folder
+$ cd wandavision-slider
+
+# Run the app
+$ Open live server
+
 ## Preview
 
 <img height="500px" width="300px" src="./img/img1.png" alt="preview">   
