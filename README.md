@@ -14,7 +14,7 @@ Fonte das imagens: Marvel, Disney+, e imbd.<br>
 
 ## Preview
 
-<img height="500px" width="300px" src="./slider/img/img1.png" alt="preview">   
+<img height="500px" width="300px" src="./img/img1.png" alt="preview">   
 
 
 ## License
